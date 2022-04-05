@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "LD0lT5oYhXKFF7Aep0VpW8r4QPV6OUYDnenieHWsY/fHUFno7FlJh0CbL0Fq/XQ6AaOkzbaFr6pCvlYZnS1lEQ==",
+  "success": true,
+  "projectFilePath": "/Users/jinseopark/Desktop/Projects/reacts/Reactivities/API/API.csproj",
+  "expectedPackageFiles": [
+    "/Users/jinseopark/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/Users/jinseopark/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/jinseopark/.nuget/packages/swashbuckle.aspnetcore/6.2.3/swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "/Users/jinseopark/.nuget/packages/swashbuckle.aspnetcore.swagger/6.2.3/swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "/Users/jinseopark/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.2.3/swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "/Users/jinseopark/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.2.3/swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
